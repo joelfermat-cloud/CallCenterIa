@@ -1,0 +1,77 @@
+2025-09-02 11:58:03,980 INFO [b2898acc] POST /bot from 127.0.0.1
+2025-09-02 11:58:04,066 INFO [b2898acc] user_id=demo message="Hola desde internet" reply="Recibido: Hola desde internet"
+2025-09-02 11:58:04,067 INFO [b2898acc] POST /bot -> 200
+2025-09-02 12:04:25,052 INFO [fa1ae367] GET /health from 127.0.0.1
+2025-09-02 12:04:25,053 INFO [fa1ae367] GET /health -> 200
+2025-09-02 12:04:25,056 INFO [e003b22a] POST /bot from 127.0.0.1
+2025-09-02 12:04:25,057 INFO [e003b22a] user_id=demo message="Blueprint ok" reply="Recibido: Blueprint ok"
+2025-09-02 12:04:25,057 INFO [e003b22a] POST /bot -> 200
+2025-09-02 12:06:16,642 INFO [a492e46e] POST /bot from 127.0.0.1
+2025-09-02 12:06:16,726 INFO [a492e46e] user_id=demo message="Hola desde internet" reply="Recibido: Hola desde internet"
+2025-09-02 12:06:16,727 INFO [a492e46e] POST /bot -> 200
+2025-09-02 12:28:52,376 INFO [5585fc48] GET /health from 127.0.0.1
+2025-09-02 12:28:52,377 INFO [5585fc48] GET /health -> 200
+2025-09-02 12:29:09,491 INFO [98671f28] GET /meta.json from 127.0.0.1
+2025-09-02 12:29:09,491 INFO [98671f28] GET /meta.json -> 200
+2025-09-02 12:29:30,523 INFO [993c4f99] POST /bot from 127.0.0.1
+2025-09-02 12:29:30,524 INFO [993c4f99] user_id=demo message="Blueprint ok" reply="Recibido: Blueprint ok"
+2025-09-02 12:29:30,524 INFO [993c4f99] POST /bot -> 200
+2025-09-02 12:35:43,981 INFO [0010a869] GET /health from 127.0.0.1
+2025-09-02 12:35:43,982 INFO [0010a869] GET /health -> 200
+2025-09-02 12:35:53,053 INFO [4e9639a7] GET /meta.json from 127.0.0.1
+2025-09-02 12:35:53,054 INFO [4e9639a7] GET /meta.json -> 200
+2025-09-02 12:36:11,390 INFO [79848da7] POST /bot from 127.0.0.1
+2025-09-02 12:36:11,474 INFO [79848da7] user_id=demo message="Hola desde internet" reply="Recibido: Hola desde internet"
+2025-09-02 12:36:11,475 INFO [79848da7] POST /bot -> 200
+2025-09-02 16:23:41,663 INFO [164b397b] GET /no-existe from 127.0.0.1
+2025-09-02 16:23:41,665 INFO [164b397b] GET /no-existe -> 404
+2025-09-02 16:23:58,446 INFO [b353cbfe] GET /bot from 127.0.0.1
+2025-09-02 16:23:58,447 INFO [b353cbfe] GET /bot -> 405
+2025-09-02 16:29:23,771 INFO [e06167ae] POST /bot from 127.0.0.1
+2025-09-02 16:29:23,772 INFO [e06167ae] user_id=demo message="Formato nuevo" reply="Recibido: Formato nuevo"
+2025-09-02 16:29:23,772 INFO [e06167ae] POST /bot -> 200
+2025-09-02 16:29:38,354 INFO [2f2691bc] POST /api/v1/echo from 127.0.0.1
+2025-09-02 16:29:38,355 INFO [2f2691bc] POST /api/v1/echo -> 200
+2025-09-02 16:34:37,388 INFO [42890fc3] GET /health from 127.0.0.1
+2025-09-02 16:34:37,391 INFO [42890fc3] GET /health -> 200
+2025-09-02 16:34:44,725 INFO [7de4af34] GET /meta.json from 127.0.0.1
+2025-09-02 16:34:44,726 INFO [7de4af34] GET /meta.json -> 200
+2025-09-02 16:34:53,041 INFO [f1b5c054] POST /bot from 127.0.0.1
+2025-09-02 16:34:53,082 INFO [f1b5c054] user_id=demo message="Hola desde internet" reply="Recibido: Hola desde internet"
+2025-09-02 16:34:53,082 INFO [f1b5c054] POST /bot -> 200
+2025-09-02 16:35:03,533 INFO [76f4b313] POST /api/v1/echo from 127.0.0.1
+2025-09-02 16:35:03,576 INFO [76f4b313] POST /api/v1/echo -> 200
+2025-09-02 16:52:40,452 INFO [1b990533] GET /health from 127.0.0.1
+2025-09-02 16:52:40,453 INFO [1b990533] GET /health -> 200
+2025-09-02 16:52:40,457 INFO [6eed8884] POST /api/v1/echo from 127.0.0.1
+2025-09-02 16:52:40,457 INFO [6eed8884] POST /api/v1/echo -> 200
+2025-09-04 12:30:30,754 INFO [59a659a5] GET /health from 127.0.0.1
+2025-09-04 12:30:30,755 INFO [59a659a5] GET /health -> 200
+2025-09-04 12:30:30,971 INFO [5e0dafe1] GET /meta.json from 127.0.0.1
+2025-09-04 12:30:30,971 INFO [5e0dafe1] GET /meta.json -> 200
+2025-09-04 12:30:31,002 INFO [f68eec1b] POST /bot from 127.0.0.1
+2025-09-04 12:30:31,002 INFO [f68eec1b] user_id=demo message="hola" reply="Recibido: hola"
+2025-09-04 12:30:31,002 INFO [f68eec1b] POST /bot -> 200
+2025-09-04 12:30:39,408 INFO [f73d9d89] GET /health from 127.0.0.1
+2025-09-04 12:30:39,409 INFO [f73d9d89] GET /health -> 200
+2025-09-04 12:30:39,491 INFO [8e065256] GET /meta.json from 127.0.0.1
+2025-09-04 12:30:39,491 INFO [8e065256] GET /meta.json -> 200
+2025-09-04 12:30:39,574 INFO [d82aba15] POST /bot from 127.0.0.1
+2025-09-04 12:30:39,654 INFO [d82aba15] user_id=demo message="Hola desde internet" reply="Recibido: Hola desde internet"
+2025-09-04 12:30:39,655 INFO [d82aba15] POST /bot -> 200
+2025-09-04 12:30:39,736 INFO [16a9cb07] POST /api/v1/echo from 127.0.0.1
+2025-09-04 12:30:39,784 INFO [16a9cb07] POST /api/v1/echo -> 200
+2025-09-05 12:11:25,990 INFO [726a6468] GET /health from 127.0.0.1
+2025-09-05 12:11:25,990 INFO [726a6468] GET /health -> 200
+2025-09-05 12:11:26,421 INFO [9767167c] GET /meta.json from 127.0.0.1
+2025-09-05 12:11:26,422 INFO [9767167c] GET /meta.json -> 200
+2025-09-05 12:11:26,464 INFO [65aa145e] POST /bot from 127.0.0.1
+2025-09-05 12:11:26,467 INFO [65aa145e] user_id=demo message="hola" reply="Recibido: hola"
+2025-09-05 12:11:26,467 INFO [65aa145e] POST /bot -> 200
+2025-09-05 12:11:34,782 INFO [4780820d] GET /health from 127.0.0.1
+2025-09-05 12:11:34,783 INFO [4780820d] GET /health -> 200
+2025-09-05 12:11:34,872 INFO [185946dd] GET /meta.json from 127.0.0.1
+2025-09-05 12:11:34,872 INFO [185946dd] GET /meta.json -> 200
+2025-09-05 12:11:34,962 INFO [cbef94a0] POST /bot from 127.0.0.1
+2025-09-05 12:11:35,001 INFO [cbef94a0] user_id=demo message="Hola desde internet" reply="Recibido: Hola desde internet"
+2025-09-05 12:11:35,001 INFO [cbef94a0] POST /bot -> 200
